@@ -1,6 +1,4 @@
-
-<html><head>
-<meta http-equiv="content-type" content="text/html;charset=utf-8">
+220.249.169.30<meta http-equiv="content-type" content="text/html;charset=utf-8">
 <title>502 Server Error</title>
 </head>
 <body text=#000000 bgcolor=#ffffff>
